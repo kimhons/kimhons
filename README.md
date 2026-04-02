@@ -323,3 +323,5 @@ I write books because teaching forces clarity. I build in public because account
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1b27,24283b&height=120&section=footer&text=Building%20Tomorrow's%20Intelligence%2C%20Today&fontSize=18&fontColor=70a5fd&animation=twinkling" width="100%"/>
 </p>
+
+<!-- Profile README for github.com/kimhons -->
